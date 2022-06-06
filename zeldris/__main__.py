@@ -115,12 +115,13 @@ buttons = [
         ),
         InlineKeyboardButton(
             text="Updates 📢",
-            url="https://t.me/IDNCoder",
+            url="https://t.me/yooneed"
+,
         ),
     ],
     [
         InlineKeyboardButton(
-            text="Add Zeldris to Your Group 👥",
+            text="Add Hu Tao to Your Group 👥",
             url="t.me/ZeldrisRobot?startgroup=true",
         ),
     ],
