@@ -93,11 +93,11 @@ def get_readable_time(seconds: int) -> str:
 
 
 # sourcery skip: raise-specific-error
-ZELDRIS_IMG = "https://telegra.ph/file/1fa00785f30375c0c1b50.jpg"
+ZELDRIS_IMG = "https://telegra.ph/file/4ae9f3c25a48418e56778.jpg"
 
 PM_START_TEXT = """
 Hey there! my name is *{}*. 
-A modular group management bot with useful features. [ㅤ](https://telegra.ph/file/fed9ba09e9add9b197c21.png)
+A modular group management bot with useful features. [ㅤ](https://telegra.ph/file/4ae9f3c25a48418e56778.jpg)
 
 ◑ *Uptime:* `{}`
 ◑ `{}` *Users, across* `{}` *chats.*
