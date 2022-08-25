@@ -115,7 +115,7 @@ buttons = [
         ),
         InlineKeyboardButton(
             text="Updates 📢",
-            url="https://t.me/yooneed"
+            url="https://t.me/Whutaosupport"
 ,
         ),
     ],
@@ -690,7 +690,7 @@ def main():
         LOGGER.info("[Zeldris] Using long polling.")
         updater.start_polling(timeout=15, read_latency=4, drop_pending_updates=True)
         if MESSAGE_DUMP:
-            updater.bot.send_message(chat_id=MESSAGE_DUMP, text="I'm a Demon King...")
+            updater.bot.send_message(chat_id=MESSAGE_DUMP, text="Oya-Oya👻")
     if len(argv) in {1, 3, 4}:
         client.run_until_disconnected()
     else:
