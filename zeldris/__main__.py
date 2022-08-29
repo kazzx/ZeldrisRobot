@@ -103,7 +103,7 @@ A modular group management bot with useful features. [ㅤ](https://telegra.ph/fi
 ◑ `{}` *Users, across* `{}` *chats.*
 
 Any issues or need help related to me?
-Join our official group [IDNCoderX](https://t.me/IDNCoderX).
+Join our official group [Hu Tao Support](https://t.me/Whutaosupport).
 Click help button to know my commands!
 """
 
