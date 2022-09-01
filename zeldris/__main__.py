@@ -128,7 +128,7 @@ buttons = [
 ]
 
 HELP_STRINGS = f"""
-Hello there! My name is *{dispatcher.bot.first_name}*.
+Oya-Oya👻! My name is *{dispatcher.bot.first_name}*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 *Main* commands available:
